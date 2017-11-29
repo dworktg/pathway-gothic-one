@@ -1,0 +1,11 @@
+{
+  "name": "pathway-gothic-one",
+  "version": "1.0.0",
+  "description": "Pathway Gothic One",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dworktg/pathway-gothic-one.git"
+  },
+  "author": "dworktg",
+  "license": "OFL"
+}
